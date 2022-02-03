@@ -24,4 +24,4 @@ s3.mens_apparel = true
 s3.womens_apparel = false
 s3.save
 
-puts.Store.count
+puts Store.count
